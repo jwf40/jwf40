@@ -20,6 +20,6 @@ Full CV: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www
 
 Full Google Scholar publication list: [Google Scholar](https://scholar.google.co.uk/citations?user=7m8cBAoAAAAJ&hl=en)
   
-![Robot_Kitchen](github_pubr_competition.mp4)
+![Robot_Kitchen](github_pubr_competition.gif)
 
 [![](https://visitcount.itsvg.in/api?id=jwf40&label=Profile%20Views%20(past%207%20days)&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)

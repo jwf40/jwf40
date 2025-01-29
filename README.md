@@ -1,7 +1,7 @@
 ### CV at a glance 
 
-- Final year PhD candidate at Univ. of Cambridge focusing on Machine Unlearning, Out of Distribution Data, and applications of Graph Learning.
-- Ex-Machine Learning Research Intern @ Samsung Electronics in the Personalized ML Team
+- Final year PhD candidate at Univ. of Cambridge focusing on Machine Unlearning.
+- Ex-Machine Learning Research Intern @ Samsung Electronics in the Personalized ML Team, working on Few-Shot Learning with Diffusion Models
 - Ex-Enrichment Student @ [The Alan Turing Institute](https://www.turing.ac.uk/) 
 
 

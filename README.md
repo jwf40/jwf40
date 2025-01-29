@@ -1,8 +1,9 @@
 ### CV at a glance 
 
 - Final year PhD candidate at Univ. of Cambridge focusing on Machine Unlearning, Out of Distribution Data, and applications of Graph Learning.
-- Enrichment Student at [The Alan Turing Institute](https://www.turing.ac.uk/) 
-- Secondee Data Scientist at UK Government
+- Ex-Machine Learning Research Intern @ Samsung Electronics in the Personalized ML Team
+- Ex-Enrichment Student @ [The Alan Turing Institute](https://www.turing.ac.uk/) 
+
 
 Full CV: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jackfoster-ml/)
 

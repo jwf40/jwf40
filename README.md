@@ -13,7 +13,7 @@ Full CV: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www
 | ------------- | ------------- |  ------------- |
 | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707)  | First  |  AAAI 2024  |
 | [An Information Theoretic Approach to Machine Unlearning](https://browse.arxiv.org/abs/2402.01401)  | First |  TMLR 2025 (Forthcoming)  |
-| [Loss-Free Machine Unlearning]([https://arxiv.org/abs/2309.08546](https://arxiv.org/abs/2402.19308))  | First |  ICLR 2024 Tiny Paper  |
+| [Loss-Free Machine Unlearning](https://arxiv.org/abs/2309.08546) | First |  ICLR 2024 Tiny Paper  |
 | [Potion: Towards Poison Unlearning](https://arxiv.org/abs/2406.09173) | Second |  DMLR 2024  |
 | [Learning to Forget With Hyper-Networks](https://arxiv.org/abs/2412.00761)  | Third |  Neurips 2024 AdvML Workshop  |
 | [Parameter-Tuning-Free Data Entry Error Unlearning with Adaptive Selective Synaptic Dampening](https://www.researchgate.net/publication/378011802_Parameter-Tuning-Free_Data_Entry_Error_Unlearning_with_Adaptive_Selective_Synaptic_Dampening)  | Second |  Preprint  |

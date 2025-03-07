@@ -12,7 +12,7 @@ Full CV: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www
 | Title  | Authorship | Venue |
 | ------------- | ------------- |  ------------- |
 | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707)  | First  |  AAAI 2024  |
-| [An Information Theoretic Approach to Machine Unlearning](https://browse.arxiv.org/abs/2402.01401)  | First |  Preprint  |
+| [An Information Theoretic Approach to Machine Unlearning](https://browse.arxiv.org/abs/2402.01401)  | First |  TMLR 2025 (Forthcoming)  |
 | [Towards Robust Continual Learning with Bayesian Adaptive Moment Regularization](https://arxiv.org/abs/2309.08546)  | First |  Preprint  |
 | [Aiding food security and sustainability efforts through graph neural network-based consumer food ingredient detection and substitution](https://www.nature.com/articles/s41598-023-44859-0) | First |  Scientific Reports  |
 | [Identifying contributors to manufacturing outcomes in a multi-echelon setting: a decentralised uncertainty quantification approach](https://arxiv.org/abs/2307.12157)  | Second |  ECML PKDD 2023 Workshop  |

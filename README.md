@@ -11,7 +11,7 @@ Full CV: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www
 
 | Title  | Authorship | Venue |
 | ------------- | ------------- |  ------------- |
-| [An Information Theoretic Approach to Machine Unlearning](https://browse.arxiv.org/abs/2402.01401)  | First |  TMLR 2025 (Forthcoming)  |
+| [An Information Theoretic Approach to Machine Unlearning](https://browse.arxiv.org/abs/2402.01401)  | First |  TMLR 2025  |
 | [Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening](https://arxiv.org/abs/2308.07707)  | First  |  AAAI 2024  |
 | [Loss-Free Machine Unlearning](https://arxiv.org/abs/2402.19308) | First |  ICLR 2024 Tiny Paper  |
 | [Potion: Towards Poison Unlearning](https://arxiv.org/abs/2406.09173) | Second |  DMLR 2024  |
